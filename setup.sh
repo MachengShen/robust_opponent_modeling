@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python3.6 -m venv aiig
+python3.6 -m venv aiig_env
 
 source aiig/bin/activate
 

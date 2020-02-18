@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 main.py: Main Script runs everything
 
-/core: neural-evolutionary part of the algorithm modified from Cooperative Evolutionary Reinforcement Learning
+/core: core algorithm for MARL_AIIG modified from Cooperative Evolutionary Reinforcement Learning
 
 /discreteenv: code for the game scenario modified from multi-partricle-environment 
 

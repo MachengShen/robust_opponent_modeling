@@ -1,12 +1,8 @@
-# MARL_AIIG
-
-This repo contains code for solving asymmetric imperfect information games
+# Robust opponent modeling via adversarial ensemble training
 
 ### Repo structure:
 
-main.py: Main Script runs everything
-
-/core: core algorithm for MARL_AIIG modified from Cooperative Evolutionary Reinforcement Learning
+/core: core algorithm foradversarial ensemble training, credit to [Cooperative Evolutionary Reinforcement Learning](https://github.com/IntelAI/cerl) for the the evolutionary RL used as part of the training pipeline
 
 /discreteenv: code for the game scenario modified from multi-partricle-environment 
 
@@ -15,17 +11,22 @@ main.py: Main Script runs everything
 
 python3.6
 
-pytorch1.0+
+pytorch 1.0+
 
 gym==0.9.1
 
 
-### Installation
+### Environment setup
 
 ```
 bash setup.sh
 ```
 
+### Run
+
+```
+python3.6 main.py
+```
 
 
 

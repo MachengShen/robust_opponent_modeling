@@ -1,4 +1,0 @@
-these models are very good:
-naive good can quickly identify naive adv, and directly tag
-naive good cannot quickly identify smart adv, fail to tag in time
-smart good learns to probe and tag when facing a smart adv, success rate of tag is close to naive red vs naive blue
